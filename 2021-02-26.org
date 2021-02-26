@@ -1,29 +1,13 @@
 #+TITLE: Hittade buggar 2021-02-26
 
-
-
-
-
 * Fasadstegar
-** Fasadstege – Bult för befintligt skorstensband – Handledare med båge - Med ståplatta - Med ryggskydd
+** 🐛 Fasadstege – Bult för befintligt skorstensband – Handledare med båge - Med ståplatta - Med ryggskydd
 *** Gjorda val
 
-Typ av fasadstege: 	*Fasadstege* – Fällbar Fasadstege – Fällbar Fasadstege (NY)  
-Infästning: 	*Bult för befintligt skorstensband* – Fästplatta – Ingen – Skorstensband - Upphängningsbeslag 
-Handledare: 	Enkel handledare – *Handledare med båge* – Handledare med stag – Utan handledare 
-Ståplatta: 		*Ja* - Nej 
-Ryggskydd: 		*Ja* - Nej 
-Klätterhinder: 		Ja - *Nej* 
-Självstängande grind: 	Ja - *Nej* 
-Fällbar ståplatta: 	*Nej* – Enkel ståplatta – Dubbel ståplatta 
-Förstyvningsskena: 	Ja – *Nej*
-Profildurk: 	1500x400mm - 1800x400mm - *2400x400mm*
-Längd: 							10 m 
-Avstånd mellan konsoler:				2 500 mm
-Antal fästvinklar:					0 st. 
-Antal handledare:					2 st. 
-Antal förankringspunkter för livlina:			0 st. 
-Konsoldjup (fritt mått):				150
+
+#+DOWNLOADED: screenshot @ 2021-02-26 16:16:53
+[[file:Fasadstegar/2021-02-26_16-16-53_screenshot.png]]
+
 
 *** Beskrivning av bugg
 
