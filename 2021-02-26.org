@@ -1,0 +1,39 @@
+#+TITLE: Hittade buggar 2021-02-26
+
+
+
+
+
+* Fasadstegar
+** Fasadstege – Bult för befintligt skorstensband – Handledare med båge - Med ståplatta - Med ryggskydd
+*** Gjorda val
+
+Typ av fasadstege: 	*Fasadstege* – Fällbar Fasadstege – Fällbar Fasadstege (NY)  
+Infästning: 	*Bult för befintligt skorstensband* – Fästplatta – Ingen – Skorstensband - Upphängningsbeslag 
+Handledare: 	Enkel handledare – *Handledare med båge* – Handledare med stag – Utan handledare 
+Ståplatta: 		*Ja* - Nej 
+Ryggskydd: 		*Ja* - Nej 
+Klätterhinder: 		Ja - *Nej* 
+Självstängande grind: 	Ja - *Nej* 
+Fällbar ståplatta: 	*Nej* – Enkel ståplatta – Dubbel ståplatta 
+Förstyvningsskena: 	Ja – *Nej*
+Profildurk: 	1500x400mm - 1800x400mm - *2400x400mm*
+Längd: 							10 m 
+Avstånd mellan konsoler:				2 500 mm
+Antal fästvinklar:					0 st. 
+Antal handledare:					2 st. 
+Antal förankringspunkter för livlina:			0 st. 
+Konsoldjup (fritt mått):				150
+
+*** Beskrivning av bugg
+
+Optimeringen av BU1201 stämmer inte överens mellan gamla och nya systemet.
+
+**** Gamla systemet
+
+| 3 | BU1201 | Bultsats 10st M10x20 vfz  | 7340044700157 | 0,2 kg | 0,6 kg | 48 SEK  | 0% | 144,00 SEK |
+| 1 | BU1200 | Bultsats 100st M10x20 vfz | 7340044700140 | 2 kg   | 2 kg   | 337 SEK | 0% | 337,00 SEK |
+
+**** Nya systemet
+
+| 13 | BU 1201 | Bultsats 10st M10x20 vfz | 7340044700157 | 0.2 kg  | 2.6 kg | 48 SEK | 0% | 624 SEK |
