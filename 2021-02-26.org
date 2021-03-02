@@ -29,3 +29,5 @@ Optimeringen av BU1201 och MU1001 stämmer inte överens mellan gamla och nya sy
 |    |         |                          |               |         |        |        |    |         |
 |    |         |                          |               |         |        |        |    |         |
 | 15 | MU 1001 | Muttersats 10st M10 vfz  | 7340044700867 | 0.13 kg | 2 kg   | 18 SEK | 0% | 270 SEK |
+
+Testar att lägga till lite skit.
