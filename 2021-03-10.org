@@ -1,5 +1,5 @@
 #+TITLE: Hittade buggar 2021-03-10
-#+SELECT_TAGS: export
+#+SELECT_TAGS: :export:
 
 * Mall för buggrapport :noexport:
 
