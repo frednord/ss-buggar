@@ -1,7 +1,8 @@
 #+TITLE: Hittade buggar 2021-03-10
-#+OPTIONS: \n tags
+#+EXCLUDE_TAGS: :noexport:
 
 * Mall för buggrapport :noexport:
+
 ** 🐛
 *** Gjorda val
 *** Beskrivning av bugg
