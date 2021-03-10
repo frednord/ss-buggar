@@ -1,6 +1,6 @@
 #+TITLE: Hittade buggar 2021-03-10
 
-* Wiresystem
+* 📁 Wiresystem
 ** 🐛 Wiresystem - Släta tak - Spår :backend:frontend:
 *** Gjorda val
 *Vilken produkt skall vajern monteras på?*
@@ -31,8 +31,8 @@ Spår
 2. Drop down-rutan med val saknas för *Avstånd mellan stödpunkter (m)*
 3. Det går inte heller att skriva in decimaltal i *Avstånd mellan stödpunkter (m)*
 
-* Glidskydd
-** Glidskydd - krok dubbel - infästningsprofil - Beräkna -> Hitta rätt infästningsprofil
+* 📁 Glidskydd
+** 🐛 Glidskydd - krok dubbel - infästningsprofil - Beräkna -> Hitta rätt infästningsprofil
 *** Gjorda val
 *Typ av glidskydd*
 Krok dubbel
