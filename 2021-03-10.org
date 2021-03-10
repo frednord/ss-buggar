@@ -1,20 +1,7 @@
 #+TITLE: Hittade buggar 2021-03-10
-#+SELECT_TAGS: :export:
-
-* Mall för buggrapport :noexport:
-
-** 🐛
-*** Gjorda val
-*** Beskrivning av bugg
-
--
-  
-**** Gamla systemet
-
-**** Nya systemet
 
 
-* Wiresystem :export:
+* Wiresystem
 ** 🐛 Wiresystem - Släta tak - Spår 
 *** Gjorda val
 *Vilken produkt skall vajern monteras på?*
@@ -44,7 +31,7 @@ Spår
 2. Drop down-rutan med val saknas för *Avstånd mellan stödpunkter (m)*
 3. Det går inte heller att skriva in decimaltal i *Avstånd mellan stödpunkter (m)*
 
-* Glidskydd :export:
+* Glidskydd
 ** 🐛 Glidskydd - krok dubbel - infästningsprofil - Beräkna -> Hitta rätt infästningsprofil
 *** Gjorda val
 *Typ av glidskydd*
@@ -85,7 +72,8 @@ I det gamla systemet kan man söka på samtliga kolumner.
 #+DOWNLOADED: screenshot @ 2021-03-10 12:48:47
 [[file:Glidskydd/2021-03-10_12-48-47_screenshot.png]]
 
-** 🐛 Glidskydd - krok dubbel - Enbart krok direk till tak -> Beställ enstaka artiklar till denna typ*** Gjorda val
+** 🐛 Glidskydd - krok dubbel - Enbart krok direk till tak -> Beställ enstaka artiklar till denna typ
+*** Gjorda val
 *Typ av glidskydd*
 Krok dubbel
 
