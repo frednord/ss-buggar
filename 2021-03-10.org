@@ -1,19 +1,6 @@
 #+TITLE: Hittade buggar 2021-03-10
 #+EXCLUDE_TAGS: :noexport:
 
-* Mall för buggrapport :noexport:
-
-** 🐛
-*** Gjorda val
-*** Beskrivning av bugg
-
--
-  
-**** Gamla systemet
-
-**** Nya systemet
-
-
 * Wiresystem
 ** 🐛 Wiresystem - Släta tak - Spår 
 *** Gjorda val
