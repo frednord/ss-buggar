@@ -2,7 +2,7 @@
 #+OPTIONS: \n tags
 
 * Wiresystem
-** 🐛 Wiresystem - Släta tak - Spår :backend:frontend:
+** 🐛 Wiresystem - Släta tak - Spår (FE/BE)
 *** Gjorda val
 *Vilken produkt skall vajern monteras på?*
 Släta Tak
@@ -33,7 +33,7 @@ Spår
 3. Det går inte heller att skriva in decimaltal i *Avstånd mellan stödpunkter (m)*
 
 * Glidskydd
-** 🐛 Glidskydd - krok dubbel - infästningsprofil - Beräkna -> Hitta rätt infästningsprofil
+** 🐛 Glidskydd - krok dubbel - infästningsprofil - Beräkna -> Hitta rätt infästningsprofil (FE)
 *** Gjorda val
 *Typ av glidskydd*
 Krok dubbel
@@ -42,7 +42,6 @@ Krok dubbel
 Infästningsprofil
 
 *** Beskrivning av bugg
-
 1. Klickar på *Hitta rätt infästningsprofil*.
 
 #+DOWNLOADED: screenshot @ 2021-03-10 12:35:19
@@ -55,7 +54,6 @@ Infästningsprofil
 
 
 **** Gamla systemet
-
 I det gamla systemet kan man söka på samtliga kolumner.
 
 #+DOWNLOADED: screenshot @ 2021-03-10 12:38:21
@@ -63,7 +61,6 @@ I det gamla systemet kan man söka på samtliga kolumner.
 
 
 **** Nya systemet
-
 - I det nya systemet går det inte att söka på *Märke* eller *Inf.profil* genom rutan för fritextsökning.
 
 - Det finns en konstig extra textruta under *Höjd* (som dessutom är redigerbar).
@@ -76,9 +73,8 @@ I det gamla systemet kan man söka på samtliga kolumner.
 #+DOWNLOADED: screenshot @ 2021-03-10 12:48:47
 [[file:Glidskydd/2021-03-10_12-48-47_screenshot.png]]
 
-** 🐛 Glidskydd - krok dubbel - Enbart krok direk till tak -> Beställ enstaka artiklar till denna typ
+** 🐛 Glidskydd - krok dubbel - Enbart krok direk till tak -> Beställ enstaka artiklar till denna typ (FE)
 *** Gjorda val
-
 *Typ av glidskydd*
 Krok dubbel
 
@@ -86,24 +82,19 @@ Krok dubbel
 Enbart krok direkt till tak
 
 *** Beskrivning av bugg
-
 -  Klickar på den lilla svarta pilen uppe i högra hörnet vid *Infästning* och väljer *Beställ enstaka artiklar till denna typ*.
 
 #+DOWNLOADED: screenshot @ 2021-03-10 14:04:39
 [[file:Glidskydd/2021-03-10_14-04-39_screenshot.png]]
 
 **** Gamla systemet
-
 Listan över möjliga val är filtrerad till ett fåtal produkter.
 
 #+DOWNLOADED: screenshot @ 2021-03-10 14:05:02
 [[file:Glidskydd/2021-03-10_14-05-02_screenshot.png]]
 
-
 **** Nya systemet
-
 Listan är inte filtrerad.
-
 #+DOWNLOADED: screenshot @ 2021-03-10 14:05:29
 [[file:Glidskydd/2021-03-10_14-05-29_screenshot.png]]
 
