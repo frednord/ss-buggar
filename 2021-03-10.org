@@ -1,8 +1,20 @@
 #+TITLE: Hittade buggar 2021-03-10
 #+OPTIONS: \n tags
 
+* Mall för buggrapport :noexport:
+** 🐛
+*** Gjorda val
+*** Beskrivning av bugg
+
+-
+  
+**** Gamla systemet
+
+**** Nya systemet
+
+
 * Wiresystem
-** 🐛 Wiresystem - Släta tak - Spår (FE/BE)
+** 🐛 Wiresystem - Släta tak - Spår 
 *** Gjorda val
 *Vilken produkt skall vajern monteras på?*
 Släta Tak
@@ -33,7 +45,7 @@ Spår
 3. Det går inte heller att skriva in decimaltal i *Avstånd mellan stödpunkter (m)*
 
 * Glidskydd
-** 🐛 Glidskydd - krok dubbel - infästningsprofil - Beräkna -> Hitta rätt infästningsprofil (FE)
+** 🐛 Glidskydd - krok dubbel - infästningsprofil - Beräkna -> Hitta rätt infästningsprofil
 *** Gjorda val
 *Typ av glidskydd*
 Krok dubbel
@@ -73,8 +85,7 @@ I det gamla systemet kan man söka på samtliga kolumner.
 #+DOWNLOADED: screenshot @ 2021-03-10 12:48:47
 [[file:Glidskydd/2021-03-10_12-48-47_screenshot.png]]
 
-** 🐛 Glidskydd - krok dubbel - Enbart krok direk till tak -> Beställ enstaka artiklar till denna typ (FE)
-*** Gjorda val
+** 🐛 Glidskydd - krok dubbel - Enbart krok direk till tak -> Beställ enstaka artiklar till denna typ*** Gjorda val
 *Typ av glidskydd*
 Krok dubbel
 
@@ -97,6 +108,11 @@ Listan över möjliga val är filtrerad till ett fåtal produkter.
 Listan är inte filtrerad.
 #+DOWNLOADED: screenshot @ 2021-03-10 14:05:29
 [[file:Glidskydd/2021-03-10_14-05-29_screenshot.png]]
+
+
+
+
+
 
 
 
