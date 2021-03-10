@@ -11,7 +11,7 @@ Spår
 
 
 *** Beskrivning av bugg
-
+ 
 **** Gamla systemet
 
 
@@ -27,3 +27,6 @@ Spår
 [[file:Wiresystem/2021-03-10_10-51-56_screenshot.png]]
 
 
+1. Texten *Information angående wirelängder...* saknas
+2. Drop down-rutan med val saknas för *Avstånd mellan stödpunkter (m)*
+3. Det går inte heller att skriva in decimaltal i *Avstånd mellan stödpunkter (m)*
